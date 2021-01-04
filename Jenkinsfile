@@ -30,7 +30,7 @@ pipeline {
                   protocol: 'http', 
                   repository: 'simpleapp-release', 
                   version: '1.0.0'
-                    }
+                    
             }
         }
     }
